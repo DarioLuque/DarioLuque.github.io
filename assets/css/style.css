@@ -211,6 +211,11 @@ header{
 
 
 
+.fab {
+	margin-right: 4%;
+	margin-left: 3%;
+}
+
 .services {
     max-width: 293px;
     height: 263px;
@@ -238,7 +243,7 @@ header{
     color: #e66f69;
 }
 .service-wrap p {
-    padding: 0px 40px;
+    padding: 0px 0px;
     font-size: 13px;
 }
 .service-wrap h3 {
